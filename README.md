@@ -65,7 +65,7 @@ console.log(user.name); // → "John Smith"
 ## Key Features
 
 - **Cross-Language Consistency** - Same seed = same data across all languages
-- **Infinite Scale** - O(log n) instant access to billions of records with zero memory overhead
+- **Infinite Scale** - O(1) instant access to billions of records with zero memory overhead
 - **Stateless Relations** - Create deterministic relationships without a database. Navigate entities in O(1) time
 - **Smart Locale Loading** - Minimal default, scale globally. Load only the specific regions and data you need
 
